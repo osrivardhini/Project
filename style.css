@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+.class :hover{
+    border-radius: 10px;
+    box-shadow: 50px;
+    width:200px;
+    height: 200px;
+    font-size: 8em;
+    text-align: center;
+    border-color:black;
+} 
